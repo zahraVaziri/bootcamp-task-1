@@ -40,7 +40,7 @@ html {
 }
 
 .container {
-  height: 100vh;
+  height: 100%;
   width: 90%;
   margin: 56px auto;
 }
